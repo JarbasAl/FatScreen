@@ -19,7 +19,7 @@
    - optional hdmi to VGA adapter (pc monitors)
 - audio jack (external speaker)
 - ethernet (go online with playstation 2)
-- dial up modem (go online with dreamcast)
+- dial up modem (go [online with dreamcast](https://dreamcast.wiki/DreamPi))
 - usb port for charging remote/bluetooth speaker
 
 ### Pictures
