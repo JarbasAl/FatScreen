@@ -2,7 +2,8 @@
 
 ### Inputs
 - analog audio (mic/cassette player)
-- RCA (consoles/VHS) * 8
+- RCA (consoles/VHS) 
+  - optional 8 x switch
 - hdmi 
 - RF cable (TV antena)
 - pseye (camera + mic)
@@ -12,7 +13,10 @@
 
 ### Outputs
 - RCA (old TVs)
+   - optional RCA to SCART adapter
 - hdmi (new TVs)
+   - optional micro-hdmi to hdmi adapter
+   - optional hdmi to VGA adapter (pc monitors)
 - audio jack (external speaker)
 - ethernet (go online with playstation 2)
 - dial up modem (go online with dreamcast)
