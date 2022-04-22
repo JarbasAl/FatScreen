@@ -7,8 +7,8 @@
 - hdmi 
 - RF cable (TV antena)
 - pseye (camera + mic)
-- ethernet
-- usb keyboard/remote
+- ethernet/wifi
+- usb remote/keyboard
 - pi camera
 
 ### Outputs
@@ -18,6 +18,7 @@
    - optional micro-hdmi to hdmi adapter
    - optional hdmi to VGA adapter (pc monitors)
 - audio jack (external speaker)
+- bluetooth (external speaker)
 - ethernet (go online with playstation 2)
 - dial up modem (go [online with dreamcast](https://dreamcast.wiki/DreamPi))
 - usb port for charging remote/bluetooth speaker
